@@ -1,0 +1,2 @@
+config SHIELD_HALFRHYMESTONEWAYALESS
+  def_bool $(shields_list_contains, halfrhymestonewayaless)
