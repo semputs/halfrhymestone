@@ -1,6 +1,6 @@
 if SHIELD_HALFRHYMESTONEWAYALESS
 
   config ZMK_KEYBOARD_NAME
-    default "halfrhymestonewayaless"
+    default "halfrhymestone"
 
 endif  
