@@ -3,4 +3,6 @@ if SHIELD_HALFRHYMESTONEWAYALESS
   config ZMK_KEYBOARD_NAME
     default "halfrhymestone"
 
+  CONFIG_BT_CTLR_TX_PWR_PLUS_8=y
+
 endif  
