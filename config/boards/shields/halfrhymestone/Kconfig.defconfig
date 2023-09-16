@@ -1,7 +1,7 @@
 if SHIELD_HALFRHYMESTONE
 
   config ZMK_KEYBOARD_NAME
-    default "halfrhymestone"
+    default "Rhymestone"
 
   CONFIG_BT_CTLR_TX_PWR_PLUS_8=y
 
